@@ -43,4 +43,7 @@ export default function RootLayout({ children }) {
   );
 }
 
-let strek = 0 
+let strek = 0
+const AppLogo = (()=>{
+  strek.length()
+}) 
