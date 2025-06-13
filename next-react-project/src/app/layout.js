@@ -42,3 +42,5 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+let strek = 0 
